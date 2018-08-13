@@ -2,14 +2,14 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "Careers in Code Classroom"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir = false
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
+  editURL = "https://github.com/hackupstate/careers-in-code-classroom/tree/master/content/"
+  description = "Careers in Code Classroom"
   author = "Mathieu Cornic"
   showVisitedLinks = true
   disableBreadcrumb = true
@@ -21,7 +21,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Careers in Code Classroom"
 weight = 1
 languageName = "English"
 

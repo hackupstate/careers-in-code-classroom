@@ -1,20 +1,41 @@
 [
 {
-	"uri": "http://example.org/categories/",
+	"uri": "/announcements/",
+	"title": "Announcements",
+	"tags": [],
+	"description": "",
+	"content": " Announcements Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "/week-1/",
+	"title": "Week 1",
+	"tags": [],
+	"description": "",
+	"content": " Week 1 Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "/week-2/",
+	"title": "Week 2",
+	"tags": [],
+	"description": "",
+	"content": " Week 2 Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/",
-	"title": "My New Hugo Site",
+	"uri": "/",
+	"title": "Documentation for Hugo Learn Theme",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
