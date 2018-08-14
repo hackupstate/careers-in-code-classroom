@@ -7,6 +7,20 @@
 	"content": " Announcements Some Chapter title Lorem Ipsum.\n"
 },
 {
+	"uri": "/schedule/",
+	"title": "Schedule",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "/surveys/",
+	"title": "Surveys",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "/instructors/",
 	"title": "Instructors",
 	"tags": [],
