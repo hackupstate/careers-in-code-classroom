@@ -1,7 +1,7 @@
 +++
 title = "Week 17"
 date = 2018-08-13T20:48:34-04:00
-weight = 20
+weight = 100
 chapter = true
 pre = "<b></b>"
 +++

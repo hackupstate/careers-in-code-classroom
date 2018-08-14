@@ -189,6 +189,13 @@
 	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
 },
 {
+	"uri": "/students/learning-resources/",
+	"title": "Learning Resources",
+	"tags": [],
+	"description": "",
+	"content": " Learning Policy Each student will have up to $400 to spend on any API’s, web services, or learning materials that they would like. There is one rule for learning materials: you can choose any resource you would like to learn, but you must have at least one other person sign up for the course with you. This allows for more collaboration between the students and it gives you a partner to troubleshoot issues or problems you are having.\nBegin learning!\r\r\rResources General Edx teachyourselfCS Freecodecamp Udacity Udemy Coursera Code School Codecademy Treehouse\nCoding Challenges Hackerrank Codewars\nPodcasts Syntax.fm\n"
+},
+{
 	"uri": "/",
 	"title": "Careers in Code Classroom",
 	"tags": [],
