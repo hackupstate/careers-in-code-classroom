@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/instructors/</loc>
+    <lastmod>2018-08-13T20:38:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/students/</loc>
+    <lastmod>2018-08-13T20:39:04-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/week-1/</loc>
     <lastmod>2018-08-12T23:12:26-04:00</lastmod>
   </url>
@@ -18,12 +28,122 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/week-3/</loc>
+    <lastmod>2018-08-13T20:46:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-4/</loc>
+    <lastmod>2018-08-13T20:46:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-5/</loc>
+    <lastmod>2018-08-13T20:46:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-6/</loc>
+    <lastmod>2018-08-13T20:46:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-7/</loc>
+    <lastmod>2018-08-13T20:46:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-8/</loc>
+    <lastmod>2018-08-13T20:46:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-9/</loc>
+    <lastmod>2018-08-13T20:46:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-10/</loc>
+    <lastmod>2018-08-13T20:46:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-11/</loc>
+    <lastmod>2018-08-13T20:46:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-12/</loc>
+    <lastmod>2018-08-13T20:46:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-13/</loc>
+    <lastmod>2018-08-13T20:47:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-14/</loc>
+    <lastmod>2018-08-13T20:47:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-15/</loc>
+    <lastmod>2018-08-13T20:47:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-16/</loc>
+    <lastmod>2018-08-13T20:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-17/</loc>
+    <lastmod>2018-08-13T20:48:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-18/</loc>
+    <lastmod>2018-08-13T20:48:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-19/</loc>
+    <lastmod>2018-08-13T20:48:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-20/</loc>
+    <lastmod>2018-08-13T20:48:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-21/</loc>
+    <lastmod>2018-08-13T20:48:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-22/</loc>
+    <lastmod>2018-08-13T20:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-23/</loc>
+    <lastmod>2018-08-13T20:48:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/week-24/</loc>
+    <lastmod>2018-08-13T20:48:57-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   

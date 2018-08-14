@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Week 12 on Careers in Code Classroom</title>
+    <link>/week-12/</link>
+    <description>Recent content in Week 12 on Careers in Code Classroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Aug 2018 20:46:58 -0400</lastBuildDate>
+    
+	<atom:link href="/week-12/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

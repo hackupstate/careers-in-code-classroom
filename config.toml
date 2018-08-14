@@ -26,10 +26,28 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Github repo"
+name = "<i class='fab fa-fw fa-github'></i> Gihub Repo"
+identifier = "github"
+url = "https://github.com/hackupstate/careers-in-code-classroom"
+weight = 5
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Theme Documentation"
 identifier = "ds"
 url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "Slack"
+identifier = "slack"
+url = ""
+weight = 25
 
 # [[Languages.en.menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
