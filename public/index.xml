@@ -6,9 +6,64 @@
     <description>Recent content on Careers in Code Classroom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Tue, 14 Aug 2018 16:55:18 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Instructor</title>
+      <link>/surveys/week-16/instructor/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:18 -0400</pubDate>
+      
+      <guid>/surveys/week-16/instructor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor</title>
+      <link>/surveys/week-24/instructor/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:18 -0400</pubDate>
+      
+      <guid>/surveys/week-24/instructor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor</title>
+      <link>/surveys/week-8/instructor/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:18 -0400</pubDate>
+      
+      <guid>/surveys/week-8/instructor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>/surveys/week-16/student/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:09 -0400</pubDate>
+      
+      <guid>/surveys/week-16/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>/surveys/week-24/student/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:09 -0400</pubDate>
+      
+      <guid>/surveys/week-24/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>/surveys/week-8/student/</link>
+      <pubDate>Tue, 14 Aug 2018 16:55:09 -0400</pubDate>
+      
+      <guid>/surveys/week-8/student/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

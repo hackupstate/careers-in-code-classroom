@@ -1,5 +1,26 @@
 [
 {
+	"uri": "/surveys/week-8/",
+	"title": "Week 8",
+	"tags": [],
+	"description": "",
+	"content": " Instructor Student "
+},
+{
+	"uri": "/surveys/week-16/",
+	"title": "Week 16",
+	"tags": [],
+	"description": "",
+	"content": " Instructor Student "
+},
+{
+	"uri": "/surveys/week-24/",
+	"title": "Week 24",
+	"tags": [],
+	"description": "",
+	"content": " Instructor Student "
+},
+{
 	"uri": "/announcements/",
 	"title": "Announcements",
 	"tags": [],
@@ -203,11 +224,53 @@
 	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
 },
 {
+	"uri": "/surveys/week-16/instructor/",
+	"title": "Instructor",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/surveys/week-24/instructor/",
+	"title": "Instructor",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/surveys/week-8/instructor/",
+	"title": "Instructor",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/surveys/week-16/student/",
+	"title": "Student",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/surveys/week-24/student/",
+	"title": "Student",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/surveys/week-8/student/",
+	"title": "Student",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/students/learning-resources/",
 	"title": "Learning Resources",
 	"tags": [],
 	"description": "",
-	"content": " Learning Policy Each student will have up to $400 to spend on any API’s, web services, or learning materials that they would like. There is one rule for learning materials: you can choose any resource you would like to learn, but you must have at least one other person sign up for the course with you. This allows for more collaboration between the students and it gives you a partner to troubleshoot issues or problems you are having.\nBegin learning!\r\r\rResources General Edx teachyourselfCS Freecodecamp Udacity Udemy Coursera Code School Codecademy Treehouse\nCoding Challenges Hackerrank Codewars\nPodcasts Syntax.fm\n"
+	"content": " Learning Policy Each student will have up to $400 to spend on any API’s, web services, or learning materials that they would like. There is one rule for learning materials: you can choose any resource you would like to learn, but you must have at least one other person sign up for the course with you. This allows for more collaboration between the students and it gives you a partner to troubleshoot issues or problems you are having.\nBegin learning!   Resources General Edx teachyourselfCS Freecodecamp Udacity Udemy Coursera Code School Codecademy Treehouse\nCoding Challenges Hackerrank Codewars\nPodcasts Syntax.fm\n"
 },
 {
 	"uri": "/",
