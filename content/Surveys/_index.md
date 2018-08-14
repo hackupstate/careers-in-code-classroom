@@ -11,3 +11,5 @@ pre = "<b></b>"
 # Some Chapter title
 
 Lorem Ipsum.
+
+{{% children  %}}
