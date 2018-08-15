@@ -6,7 +6,7 @@ chapter = true
 pre = "<b></b>"
 +++
 
-### Chapter X
+### Week 15
 
 # Some Chapter title
 
