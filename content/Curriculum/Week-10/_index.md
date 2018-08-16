@@ -1,13 +1,16 @@
 +++
-title = "Week 10"
+title = "Week 10 (3/18/2019 - 3/22/2019)"
 date = 2018-08-13T20:46:48-04:00
 weight = 65
-chapter = true
 pre = "<b></b>"
 +++
 
-### Week 10
+## Monday - DATE
 
-# Some Chapter title
+## Tuesday - DATE
 
-Lorem Ipsum.
+## Wednesday - DATE
+
+## Thursday - DATE
+
+## Friday - DATE
