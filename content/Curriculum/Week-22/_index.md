@@ -5,12 +5,12 @@ weight = 125
 pre = "<b></b>"
 +++
 
-## Monday - DATE
+## Monday - 6/10/2019
 
-## Tuesday - DATE
+## Tuesday - 6/11/2019
 
-## Wednesday - DATE
+## Wednesday - 6/12/2019
 
-## Thursday - DATE
+## Thursday - 6/13/2019
 
-## Friday - DATE
+## Friday - 6/14/2019

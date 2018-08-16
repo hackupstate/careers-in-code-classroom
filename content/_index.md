@@ -7,15 +7,10 @@ draft: false
 
 Welcome to the open source classroom for Careers in Code, a 24 week coding bootcamp for women and minorities happening in Syracuse, NY.
 
-More information coming soon!
+## What is this classroom?
+This is where instructors will post their notes for students. It's all rendered in markdown and has built in support for code snippets.
 
-<!-- ## About this classroom
-
-
-## What
-### Students
-
-### Instructors
+<!-- -- include button for feedback here --  -->
 
 ## When
 
@@ -23,4 +18,7 @@ Careers in Code will kick off in January 2019.
 
 ## Where 
 
-The Technology Garden, Syracuse, NY. -->
+The Technology Garden, Syracuse, NY.
+
+## Questions?
+More information is coming soon - please reach out to us if you have any questions or want to learn more!
