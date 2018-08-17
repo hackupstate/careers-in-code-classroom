@@ -17,3 +17,5 @@ Please fill out the following debrief every day. This will help us to improve ou
 TODO: Include Google Form Embed
 
 ## Weekly Feedback Survey
+
+At the end of each week, please fill out a survey on your experience. 
