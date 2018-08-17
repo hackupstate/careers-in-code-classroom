@@ -34,30 +34,39 @@ Here is where you would put the expected outcomes for the week of the day. You c
 ### Schedule 
 
 | Time | Topic   |
-| ---- | ------- |
-| 6:00pm - 6:15pm | Standup             | 
-| 6:15pm - 7:20pm | Topic name TBD             | 
-| 7:20pm - 7:30pm | Break     | 
-| 7:30pm - 9:00pm | Topic name TBD       | 
+| ---- | ------- | 
+| 6:00pm - 6:15pm | Standup                    | 
+| 6:15pm - 7:20pm | Topic TBD             | 
+| 7:20pm - 7:30pm | Break                      | 
+| 7:30pm - 8:45pm | Topic TBD             |
+| 8:45pm - 9:00pm | Debrief                    | 
 
 ### Prep Work
 
-These are items that the student should have prepared before class, some examples:
+These are items that the student should have prepared before class.
 
-- Review codebase
-- Watch some video
+Some examples might include:
+
+- Review code
+- Watch a video
 - Review notes
 - Complete an exercise
 
 ### Daily Goals
 
-Here are goals that should be met at the end of the lesson
+Here are goals that should be met at the end of the lesson.
+
+- Goal 1
+- Goal 2
+- Goal 3
 
 ### Warm Up
 
+A quick activity to get students talking and prepare them for the lessons.
+
 ### Lessons
 
-Lesson plans should go here. These can also be abstracted into different markdown folders if you'd like (TODO: show example)
+Lesson plans should go here. These can also be abstracted into different markdown folders if you'd like by creating separate markdown files nested within the repo.
 
 #### Lesson 1
 
@@ -66,22 +75,41 @@ Lesson plans should go here. These can also be abstracted into different markdow
 #### Lesson 3
 
 ### Projects
+
+Projects that students will be working out of or are pertinent to the lesson should go here.
+
 - Link to project repo
 - Link to project repo
 - Link to project repo
 
 ### Debrief
+
+Students should have time for a debrief everyday. This can be talked about at the end of class but should also be recorded by the student via a form - TODO.
+
 - What new things did you learn today?
 - What topics are you struggling with?
 - What did you enjoy about today's class?
 - What can be improved for future classes?
+- What do you want to talk about at standup tomorrow?
 
 ### Resources
-- Link
-- Link
-- Link
+
+Links to external resources to accompany the lesson plans or for additional learning.
+
+- Link to resource
+- Link to resource
+- Link to resource
 
 ### Homework
+
+Homework assignements for the students to complete before the next class.
+
+- Review some code
+- Be prepared to share code with an instructor
+- Be prepared to talk about code
+- Watch a video
+- Review lesson notes
+- Complete exercies
 
 ## Day of Week - DD/MM/YYYY
 
