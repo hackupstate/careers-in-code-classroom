@@ -15,6 +15,9 @@ There's a great link [here](https://www.producthunt.com/ask/3452-what-are-the-be
 ## Resources
 These resources are in no particular order.
 
+### Essential Resources
+- [Stack Overflow](https://stackoverflow.com/). Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.
+
 ### General 
 - Edx
 - TeachyourselfCS
@@ -26,7 +29,6 @@ These resources are in no particular order.
 - Codecademy
 - Treehouse
 - Lynda
-- Stack Overflow
 - Treehouse
 - Front End Masters
 - CSS Tricks
@@ -35,11 +37,19 @@ These resources are in no particular order.
 - Mozilla Developer Network
 - Egghead.io
 - Khan Academy
+- Wes Bos
+- [CodeCode Ninja](https://codecode.ninja/)
 
 ### Coding Challenges
 - Hackerrank
 - Codewars
+- [Exercism](https://exercism.io/)
 
+### Interview Prep
+- Code Signal
+- Interview Cake
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
+- [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 ### Youtube Channels
 - Simple Programming
