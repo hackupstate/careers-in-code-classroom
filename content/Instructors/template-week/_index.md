@@ -84,13 +84,11 @@ Projects that students will be working out of or are pertinent to the lesson sho
 
 ### Debrief
 
-Students should have time for a debrief everyday. This can be talked about at the end of class but should also be recorded by the student via a form - TODO.
+Students should have time for a debrief everyday. This can be talked about at the end of class and should also be recorded by the student via a form.
 
-- What new things did you learn today?
-- What topics are you struggling with?
-- What did you enjoy about today's class?
-- What can be improved for future classes?
-- What do you want to talk about at standup tomorrow?
+TODO: Link to page
+
+<!-- {{< relref  "../../Feedback-Surveys/Students/_index.md" >}} -->
 
 ### Resources
 
