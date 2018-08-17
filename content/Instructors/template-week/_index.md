@@ -1,21 +1,8 @@
 ---
-title: "Template Week / Documentation"
+title: "Template Week"
 date: 2018-08-15T18:33:12-04:00
 draft: false
 ---
-
-# Documentation
-
-## Link to Markdown Documentation
-
-TODO
-
-## Codepen Snippets
-
-<p data-height="265" data-theme-id="0" data-slug-hash="MoJLVL" data-default-tab="html,result" data-user="joemburgess" data-pen-title="intro br" class="codepen">See the Pen <a href="https://codepen.io/joemburgess/pen/MoJLVL/">intro br</a> by Joe Burgess (<a href="https://codepen.io/joemburgess">@joemburgess</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-# Template Week
 
 This is a template to be used for the week / day for students. Feel free to move around sections / headings as you see fit.
 
@@ -30,7 +17,7 @@ This is a template to be used for the week / day for students. Feel free to move
 | Day 5 | First Last      | Email            | This is a topic that will be covered | 
 
 
-## Learning Goals
+## Weekly Learning Goals
 
 Here is where you would put the expected outcomes for the week of the day. You can define overall week-long goals or move this into daily goals.
 
@@ -42,25 +29,59 @@ Here is where you would put the expected outcomes for the week of the day. You c
 - TBD
 - TBD
 
-## Resources
-- Link
-- Link
-- Link
-
-## Projects
-- Link to project repo
-- Link to project repo
-- Link to project repo
-
 ## Day of Week - DD/MM/YYYY
 
 ### Schedule 
 
 | Time | Topic   |
 | ---- | ------- |
-| 6:00pm - 7:20pm | Topic name TBD             | 
+| 6:00pm - 6:15pm | Standup             | 
+| 6:15pm - 7:20pm | Topic name TBD             | 
 | 7:20pm - 7:30pm | Break     | 
 | 7:30pm - 9:00pm | Topic name TBD       | 
+
+### Prep Work
+
+These are items that the student should have prepared before class, some examples:
+
+- Review codebase
+- Watch some video
+- Review notes
+- Complete an exercise
+
+### Daily Goals
+
+Here are goals that should be met at the end of the lesson
+
+### Warm Up
+
+### Lessons
+
+Lesson plans should go here. These can also be abstracted into different markdown folders if you'd like (TODO: show example)
+
+#### Lesson 1
+
+#### Lesson 2
+
+#### Lesson 3
+
+### Projects
+- Link to project repo
+- Link to project repo
+- Link to project repo
+
+### Debrief
+- What new things did you learn today?
+- What topics are you struggling with?
+- What did you enjoy about today's class?
+- What can be improved for future classes?
+
+### Resources
+- Link
+- Link
+- Link
+
+### Homework
 
 ## Day of Week - DD/MM/YYYY
 
