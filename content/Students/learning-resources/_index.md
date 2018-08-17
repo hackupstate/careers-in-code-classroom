@@ -13,6 +13,7 @@ Each student will have up to $400 to spend on any API’s, web services, or lear
 There's a great link [here](https://www.producthunt.com/ask/3452-what-are-the-best-websites-to-learn-to-code) that you can checkout for review on many learning platforms.
 
 ## Resources
+These resources are in no particular order.
 
 ### General 
 - Edx
