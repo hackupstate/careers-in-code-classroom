@@ -9,8 +9,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   editURL = "https://github.com/hackupstate/careers-in-code-classroom/tree/master/content/"
-  description = "Careers in Code Classroom"
-  author = "Mathieu Cornic"
+  description = "Careers in Code Classroom - A 24 Week Coding Bootcamp for Women and Minorities from Distressed Communities"
+  author = "Jesse Peplinski"
   showVisitedLinks = true
   disableBreadcrumb = true
   disableNextPrev = true
