@@ -2,6 +2,7 @@
 title: "Responsibilities and Expectations"
 date: 2018-08-14T17:56:23-04:00
 draft: false
+weight: 1
 ---
 
 ## Time Commitment 

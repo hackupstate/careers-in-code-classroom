@@ -2,6 +2,7 @@
 title: "Template Week"
 date: 2018-08-15T18:33:12-04:00
 draft: false
+weight: 3
 ---
 
 This is a template to be used for the week / day for students. Feel free to move around sections / headings as you see fit.

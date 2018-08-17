@@ -8,7 +8,7 @@ pre = "<b></b>"
 
 # January - June 2019
 
-| Date | Week | Instructor | Topic |
+| Date | Week | Instructor Name | Topic |
 | ---- | ---- | ---------- | ----- |
 | Jan 14 | Week 01 | todo | todo |
 | Jan 21 | Week 02 | todo | todo |

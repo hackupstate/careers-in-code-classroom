@@ -2,6 +2,7 @@
 title: "Learning Resources"
 date: 2018-08-13T23:39:37-04:00
 draft: false
+weight: 3
 ---
 
 ## Learning Policy

@@ -6,8 +6,6 @@ chapter = true
 pre = "<b></b>"
 +++
 
-### Curriculum
+# Curriculum
 
-# Some Chapter title
-
-Lorem Ipsum.
+{{% children  %}}

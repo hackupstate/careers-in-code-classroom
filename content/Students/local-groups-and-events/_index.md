@@ -2,6 +2,7 @@
 title: "Local Groups and Events"
 date: 2018-08-14T17:56:23-04:00
 draft: false
+weight: 2
 ---
 
 ## Groups and Events
