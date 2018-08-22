@@ -19,3 +19,13 @@ TODO: Include Google Form Embed
 ## Weekly Feedback Survey
 
 At the end of each week, please fill out a survey on your experience. 
+
+## Student Readiness 
+- 8 Weeks
+- 16 Weeks
+- 24 Weeks
+
+## Program Effectivness
+- 8 Weeks
+- 16 Weeks
+- 24 Weeks
