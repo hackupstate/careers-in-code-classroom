@@ -25,10 +25,11 @@ We expect all participating instructors to arrive on time to class except for in
 
 ## Before Class
 ### Prep Work
-Instructors are expected to create prep work for each class for the students to complete beforehand.
+- Instructors are expected to create prep work for each class for the students to complete beforehand.
 
 ## During Class
-Instructors should be actively engaging students in lesson plans.
+- Take attendance each day.
+- Actively engage students in lesson plans.
 
 ## After Class
 ### Debrief Survey Review
