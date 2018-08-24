@@ -24,19 +24,16 @@ weight: 1
 We expect all participating instructors to arrive on time to class except for in cases of emergency.
 
 ## Before Class
-### Prep Work
-- Instructors are expected to create prep work for each class for the students to complete beforehand.
+- __Prep Work / Lesson Plans:__ Instructors are expected to create prep work and lesson plans for each class for students.
 
 ## During Class
-- Take attendance each day.
-- Actively engage students in lesson plans.
+- __Attendance:__ Instructors should attendance each day.
+- __Student Participation:__ Students should actively engage students in lesson plans.
 
 ## After Class
-### Debrief Survey Review
-Students will actively contribute to the daily debriefs. We expect instructors to listen to students at the end of class, review them, and *possibly* adapt their lessons accordingly.
-
-### Weekly Feedback Survey Submission
-We expect that instructors will complete a short survey after they have completed their week of teaching.
+- __Student Debrief Survey Review:__ Students will actively contribute to the daily debriefs. We expect instructors to listen to students at the end of class, review them, and *possibly* adapt their lessons accordingly.
+- __Weekly Feedback Survey Submission:__ We expect that instructors will complete a short survey after they have completed their week of teaching.
+- __Weekly Student Feedback Survey:__ 
 
 ## Ongoing Feedback
-Instructors are vital to the success of our program. We hope that you will shape and refine our curriculum to ultimately align students with professional software developer positions
+Instructors, partners, and advisors are vital to the success of our program. We hope that you will shape and refine our curriculum to ultimately align students with professional software developer positions.
