@@ -36,6 +36,8 @@ These resources are in no particular order.
 - [Khan Academy](https://www.khanacademy.org/). Creating a set of online tools that help educate students. The organization produces short lessons in the form of YouTube videos
 - [Wes Bos](https://wesbos.com/courses/).
 - [CodeCode Ninja](https://codecode.ninja/)
+- [Code.org](https://code.org/)
+- [Code Newbie](https://www.codenewbie.org/)
 
 ### Coding Challenges // Interview Prep
 - [Hackerrank](https://www.hackerrank.com/dashboard). Competitive programming challenges for both consumers and businesses, where developers compete by trying to program according to provided specifications.
