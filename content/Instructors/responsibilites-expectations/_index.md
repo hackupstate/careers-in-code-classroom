@@ -28,12 +28,13 @@ We expect all participating instructors to arrive on time to class except for in
 
 ## During Class
 - __Attendance:__ Instructors should attendance each day.
-- __Student Participation:__ Students should actively engage students in lesson plans.
+- __Student Participation:__ Instructors should actively engage students in lesson plans. We're strong believers that the best way is to **learn by doing**, and the only way that students learn is when they are excited. OUr hope is that instructors will make exciting and engaging lesson plans to support a flipped classroom learning environment.
+- __Answering Questions:__ Instructors should regularly ask students if they have questions during class. Asking **What questions do you have?** or **Ask me a question** instead of **Do you have any questions?** helps has a bigger impact!
 
 ## After Class
 - __Student Debrief Survey Review:__ Students will actively contribute to the daily debriefs. We expect instructors to listen to students at the end of class, review them, and *possibly* adapt their lessons accordingly.
 - __Weekly Feedback Survey Submission:__ We expect that instructors will complete a short survey after they have completed their week of teaching.
-- __Weekly Student Feedback Survey:__ 
+- __Daily / Weekly Student Feedback:__ Instrutors will offer feedback / take regular notes on the students in the class and their progress, what they are stuggling with, their interests, etc.
 
 ## Ongoing Feedback
 Instructors, partners, and advisors are vital to the success of our program. We hope that you will shape and refine our curriculum to ultimately align students with professional software developer positions.
