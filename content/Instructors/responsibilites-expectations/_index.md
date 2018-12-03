@@ -6,10 +6,14 @@ weight: 1
 ---
 
 ## Time Commitment
-- __3 hours__ in person, five days a week for 1 week (TBD depending on how many instructors we have)
-- __1 hour__ of prep work before __each class__
-- __15-30 minutes__ daily to review student debrief surveys
-- __2-3 hours__ of project review / office hours on the weekend (only for the week you are assigned)
+Here are some high-level time commitments for the class. Note these are subject to change depending on the number of instructors and how many weeks you would like to teach.
+
+The overall time dedication is roughly __16-20 hours__.
+
+- __12 hours__ of class time per week (__3 hours__ per day, 4 days a week)
+- __4-6 hours__ of prep work for the week (lesson plans, homework assignments, projects, etc)
+- __15 minutes__ daily to review student debrief surveys
+- __1-2 hours__ of project review / office hours on the weekend
 
 <!-- # Class Structure (Move to lesson plan for orientation)
 - 2 hours, twice a week for 3 weeks
