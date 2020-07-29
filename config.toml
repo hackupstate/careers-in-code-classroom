@@ -43,12 +43,6 @@ identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
-[[Languages.en.menu.shortcuts]]
-name = "Slack"
-identifier = "slack"
-url = ""
-weight = 25
-
 # [[Languages.en.menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
 # url = "/credits"
